@@ -42,6 +42,7 @@ export default {
             runtime: "classic"
           }
         ],
+        '@babel/preset-typescript',
       ],
       extensions,
     }),
